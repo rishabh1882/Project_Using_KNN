@@ -7,7 +7,8 @@ The main goal of this project is to find the price of the Bangalore house using 
 Do Exploratory Data Analysis,Feature Engineering and selection.
 Prepare a proper Machine Learning Algorithm to Predict the Price of Bangalore House Based on Multiple Columns.
 
-#iPhone Purchase Prediction
+## iPhone Purchase Prediction
+
 Welcome to the "iPhone Purchase Prediction Model using KNN" GitHub project! This project leverages the power of K-Nearest Neighbors (KNN) algorithm to develop a predictive model for iPhone purchases. Whether you're a data science enthusiast, a machine learning practitioner, or someone interested in consumer behavior analysis, this project provides a valuable insight into predicting user preferences when it comes to buying iPhones.
 
 Key Features:
